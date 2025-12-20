@@ -8,7 +8,7 @@
 
 This example demonstrates how to draw an editor in a column header and activate the editor on mouse click.
 
-![WinForms Data Grid - Display data editors within column headers](https://raw.githubusercontent.com/DevExpress-Examples/how-to-provide-inplace-editors-for-columns-headers-e2815/13.1.4%2B/media/winforms-grid-header-editors.png)
+![WinForms Data Grid - Display data editors within column headers](media/winforms-grid-header-editors.png)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
@@ -16,3 +16,4 @@ This example demonstrates how to draw an editor in a column header and activate 
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
